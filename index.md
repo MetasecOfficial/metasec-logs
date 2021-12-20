@@ -4,6 +4,15 @@ This is the logs for the project I'm calling metasec
 Once I finish programming it, a link to the website will also be included.
 Stay tuned!
 Scroll down for logs.
+     
+      
+
+    
+   
+
+   
+
+   
 
 
 
@@ -18,17 +27,7 @@ Scroll down for logs.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
 
